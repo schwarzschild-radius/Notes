@@ -333,7 +333,7 @@ Advantages:
 
 ### **Asynchronous Concurrent Execution**
 
-* Concurretn tasks supported by CUDA.
+* Concurrent tasks supported by CUDA.
   * Computation on the host.
   * Computation on the device.
   * Memory transfers from host to device.
@@ -358,7 +358,7 @@ the level of concurrency depends of feature set and compute capability.
   * Memory copies performed by functions that are suffixed with **Async**.
   * Memory set function calls.
 
-* Can disable by setting **CUDA\_LAUNCH\_BLOCKING** environment variable 1.
+* Can disable by setting **CUDA\_LAUNCH\_BLOCKING** environment variable.
 
 * Async memory copies will also be synchronous if they involve host memory that is not page-locked.
 
@@ -391,7 +391,6 @@ the level of concurrency depends of feature set and compute capability.
 ### Streams
 
 * The above concurrent operations are managed using **streams**.
-
 * **Streams** are sequence of commands that are executed **inorder**, but multiple streams can execute commands **out of order** or **concurrently**.
 
 
@@ -447,11 +446,11 @@ the level of concurrency depends of feature set and compute capability.
     
     * Two commands in different streams cannot execute concurrently when the following happens
 
-    * A page-locked host memory allocation.
-    * A device memory allocation.
-    * A device memory set.
-    * A memory copy between two address to the same device memory.
-    * Any CUDA command to the NULL stream.
+      * A page-locked host memory allocation.
+      * A device memory allocation.
+      * A device memory set.
+      * A memory copy between two address to the same device memory.
+      * Any CUDA command to the NULL stream.
 
   ### Callbacks
 
