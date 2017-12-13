@@ -1,6 +1,6 @@
 <span style="font-size:18px">
 
-# Notes from the Video
+# Notes from the [Video](https://www.youtube.com/watch?v=6zOpxAwYKUQ)
 
 ## What is a build system?
 
