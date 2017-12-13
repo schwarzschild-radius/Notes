@@ -38,7 +38,7 @@
 
 * Open source moduler collection of compiler & toolchain infrastructure.
 
-* includes code generation, optimization, linking and loading.
+* includes code generation, optimization, linker and loader.
 
 * Written in C++.
 
@@ -46,12 +46,11 @@
 
 ## What can you do with LLVM?
 
-* code generation for DSLs
+* code generation for DSLs.
 * traditional copilers for general purpose languages.
-* Developer or editor tools for static analysis, refactoring
+* Developer or editor tools for static analysis, refactoring.
 
-LLVM has bugs!
+# LLVM has bugs!
 
 * Since LLVM is written in C++ so one can hack on LLVM to contribute for opensource community.
-
-                    
+* There are lot of tools that come with LLVM that are super useful for developers like **clang-tidy**, **clang-format**, **thinlto**.
