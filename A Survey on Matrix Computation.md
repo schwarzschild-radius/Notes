@@ -28,9 +28,24 @@
 
 ### Naive Matrix Multiplication
 
+```C++
+// C = (m x n), A = (m x k), B = (k, n)
+for(size_t i = 0; i < m; i++){
+    for(size_t j = 0; j < n; j++){
+        for(size_t l = 0; l < k; l++){
+            C[i][j] += A[i][l] * B[l][j];
+        }
+    }
+}
+
+```
+
 1. The approach is the access schedule one or more non overlapping row to each PE.
 2. Each PE performs computation dot product with the other matrix and stores the result to the resultant matrix.
 
 ![](./Pictures/Naive_Matrix_Multiplication.png)
 
-## Problems with 
+## Problems with Naive Matrix Multiplication
+
+1. If the dimensions of the matrix exceeds the size of local memory, every fetch will be directed to the shared memory instead of local memory.
+2. Also Matrix B is not access in a row major fashion 
