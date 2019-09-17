@@ -1,8 +1,4 @@
-<style>
-img[src*="#thumbnail"] {
-   height:30px;
-}
-</style>
+<link rel="stylesheet" type="text/css" media="all" href="../styles/image.css" />
 
 # Cost Modelling of Parallel and Sequential Algorithms and Data Structures
 * Modelling cost allows us to choose the best algorithms given a problem specification. In other words, It allows comparing different algorithms given the problem specification
