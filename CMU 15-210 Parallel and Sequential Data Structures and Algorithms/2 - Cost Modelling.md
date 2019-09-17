@@ -73,3 +73,14 @@ e.g. For Parallel MergeSort, Work is O(nlogn) and Span is O(lg^2 n)
     1. insert - O(1), O(1)
     2. removeMin - O(lg n), O(lg n)
     3. empty - O(1), O(1)
+
+* The difference between an algorithm and a data structure specification is that data structure specification involves specifiying a data structure and list of algorithm that work on the data structure
+* An algorithm specification requires designing an algorithm for the given problem. It involves describing the problem interms of algorithm and not its implementation details
+> **Problem** requires meeting an algorithm or a data structure specification with a cost specification. By specifying the problem on can find out whether it is a data structure or an algorithm problem
+> **Implementation**: We solve a problem by specifying by providing an implementation. e.g. for solving a sorting problem one can implement an insertion sort algorithm and its cost specification, similarily for a priority queue problem one can specifiy the underlying data structure as binary heap and provide a cost specification based on that
+
+## Importance of Specification and Implementation
+* There are several reasons for distinguishing an Specification from an Implementation
+    1. In many cases the specification of the problem is simple. It abstracts out the implementation details
+    2. Having the same specification, the programmer must be able to optimize the implementation
+    3. Now we can change compare the different implementation which matches the same specification.
