@@ -1,0 +1,9 @@
+- Loop Rotation
+	author: Michael Wolfe(Oregon Graduate Center, Department of Computer Science and Engineering)
+  tldr: This paper describes a new transformation technique for loops. This maps a specific kind of loop called systolic loop on to a Distributed Memory Message Passing multiprocessor(DMMP)
+  link: https://dl.acm.org/citation.cfm?id=102862
+- Loop Skewing
+  author: Michael Wolfe(Department of Computer Science, UIUC)
+  tldr: Loop skewing is a transformation technique to derive wavefront method of execution of nested loops. The wavefront method is used to execute nested loop in parallel and vector architectures.
+  link: https://link.springer.com/article/10.1007%2FBF01407876
+- 
