@@ -1,9 +1,20 @@
-- Loop Rotation
-  author: Michael Wolfe(Oregon Graduate Center, Department of Computer Science and Engineering)
+- Loop Rotation:
+  authors: Michael Wolfe(Oregon Graduate Center, Department of Computer Science and Engineering)
   tldr: This paper describes a new transformation technique for loops. This maps a specific kind of loop called systolic loop on to a Distributed Memory Message Passing multiprocessor(DMMP)
   link: https://dl.acm.org/citation.cfm?id=102862
-- Loop Skewing
-  author: Michael Wolfe(Department of Computer Science, UIUC)
+  tags: loop optimization
+- Loop Skewing:
+  authors: Michael Wolfe(Department of Computer Science, UIUC)
   tldr: Loop skewing is a transformation technique to derive wavefront method of execution of nested loops. The wavefront method is used to execute nested loop in parallel and vector architectures.
   link: https://link.springer.com/article/10.1007%2FBF01407876
-- 
+  tags: loop optimization
+- The Parallel Execution of Do Loops:
+  authors: Leslie Lamport(MIT)
+  tldr: Do loops are more frequently used in fortran programmers. The author proposes methods for automatically paralleling iteration of Do loop on an asynchronous multiprocessor and array processor with some restrictions on what statement can be present inside(IO and not transfer of control outside the loop). 
+  link: https://www.microsoft.com/en-us/research/publication/parallel-execution-loops/
+  tags: loop optimization
+- A Code Generator for High-Performance Tensor Contractions on GPUs:
+  authors: Jinsung Kim(The Ohio State University), Aravind Sukumaran-Rajam(The Ohio State University), Vineeth Thumma(The Ohio State University), Sriram Krishnamoorthy(Pacific Northwest National Laboratory, Washington),Ajay Panyala(Pacific Northwest National Laboratory, Washington), Louis-Noel Pouchet(Colorado State University), Atanas Rountev(The Ohio State University), P. Sadayappan(The Ohio State University)
+  tldir: Tensor Contractions are generalization of MM. They are compute intensive workloads. The paper describes a codegeneration method for tensor contractions targetting GPU(CUDA). It exploits domain-specific properties about data reuse in tensor contractions to devise an effective code generation schema, coupled with an effective model-driven search, to determine parameters for mapping of computation to threads and staging of data through the GPU memory hierarchy
+  link: https://dl.acm.org/citation.cfm?id=3314885
+  tags: GPU, CGO, Tensor, CUDA
