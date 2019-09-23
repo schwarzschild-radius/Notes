@@ -23,3 +23,8 @@
   tldr: FORTRAN is widely used in Scientific Computing and "Recent" introduction of HPC systems like Cray-1 and other vector machines has increased the interests of standards commitee to provide it to the language. With Fortran 8.x there will be new vector operations but inorder to port existing applications to F8x we need to quite some refactoring. This can be avoided by using automatic translation, but it is not very trivial at first to convert F7x Do loops to F8x vector operations because they are semantically different in the sense that there is a problem of dependence between Do loops iterations. The idea is to use data dependence to uncover parallelism(even the hidden ones).
   link: https://dl.acm.org/citation.cfm?id=29875
   tags: automatic parallelization, vector, fortran
+- Spectres, Virtual Ghosts, and Hardware Support:
+  authors: Xiaowan Dong(University of Rochester), Zhuojia Shen(University of Rochester), John Criswell(University of Rochester), Alan Cox(Rice University), Sandhya Dwarkadas(University of Rochester)
+  tldir: Side-channel attacks, such as Spectre and Meltdown, that leverage speculative execution pose a serious threat to computing systems.This work evaluates the performance impact of three different defenses against in-kernel speculation side-channel attacks within the context of Virtual Ghost. 
+  link: https://dl.acm.org/citation.cfm?id=3214297
+  tags: security, spectre, meltdown
