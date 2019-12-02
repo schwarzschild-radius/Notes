@@ -28,3 +28,8 @@
   tldir: Side-channel attacks, such as Spectre and Meltdown, that leverage speculative execution pose a serious threat to computing systems.This work evaluates the performance impact of three different defenses against in-kernel speculation side-channel attacks within the context of Virtual Ghost. 
   link: https://dl.acm.org/citation.cfm?id=3214297
   tags: security, spectre, meltdown
+- Anatomy of High Performance Matrix Multiplication
+  authors: Kazushige goto, Robert A. Van De Geijn(Univeristy of Texas, Austin)
+  tldir: Basic principles that underly the implemetation of matrix multiplication in GotoBLAS. It is optimized for multi-level memory hierarchies and various architectures. Bulk computations are done in the form of GEPP, GEMP, GEPM.
+  link: https://dl.acm.org/citation.cfm?id=1356053
+  tags: Matrix Mulitplication, Optimization
