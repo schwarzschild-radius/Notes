@@ -1,4 +1,5 @@
 # NASA Astronomical Photo of the Day
+- 19 Aug 2019 - [Lenticular Clouds over Mt. Etna](https://apod.nasa.gov/apod/ap190819.html)
 - 4 Jan 2020 - [Aurora Slathers Up the Sky](https://apod.nasa.gov/apod/ap200104.html)
 - 5 Jan 2020 - [A Starry Night of Iceland](https://apod.nasa.gov/apod/ap200105.html)
 - 6 Jan 2020 - [Tumulotus Clouds of Jupiter](https://apod.nasa.gov/apod/ap200106.html)
