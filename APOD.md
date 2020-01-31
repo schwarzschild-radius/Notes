@@ -8,3 +8,4 @@
 - 15 Jan 2020 - [Iridescent Clouds over Sweden](https://apod.nasa.gov/apod/ap200115.html)
 - 21 Jan 2020 - [Quadrantid Meteors through Orion](https://apod.nasa.gov/apod/ap200120.html)
 - 22 Jan 2020 - [Parker: Sounds of the Solar Wind](https://apod.nasa.gov/apod/ap200121.html)
+- 29 Jan 2020 - [Milkyway over Yellowstone](https://apod.nasa.gov/apod/ap200129.html)
