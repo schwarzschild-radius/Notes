@@ -12,3 +12,4 @@
 - 01 Feb 2020 - [Apollo 14 Heads for Home](https://apod.nasa.gov/apod/ap200201.html)
 - 04 Feb 2020 - [A Sunset Night Sky over the Grand Canyon](https://apod.nasa.gov/apod/ap200204.html)
 - 10 Feb 2020 - [Solar Eclipse over UAE](https://apod.nasa.gov/apod/ap200210.html)
+- 14 Feb 2020 - [The Pale Blue Dot](https://apod.nasa.gov/apod/ap200214.html)
