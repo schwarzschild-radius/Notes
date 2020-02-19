@@ -14,3 +14,4 @@
 - 10 Feb 2020 - [Solar Eclipse over UAE](https://apod.nasa.gov/apod/ap200210.html)
 - 14 Feb 2020 - [The Pale Blue Dot](https://apod.nasa.gov/apod/ap200214.html)
 - 17 Feb 2020 - [The Changing Surface of Fading Betelgeuse](https://apod.nasa.gov/apod/ap200217.html)
+- 18 Feb 2020 - [Orion over the Central Bohemian Highlands](https://apod.nasa.gov/apod/ap200218.html)
