@@ -15,3 +15,5 @@
 - 14 Feb 2020 - [The Pale Blue Dot](https://apod.nasa.gov/apod/ap200214.html)
 - 17 Feb 2020 - [The Changing Surface of Fading Betelgeuse](https://apod.nasa.gov/apod/ap200217.html)
 - 18 Feb 2020 - [Orion over the Central Bohemian Highlands](https://apod.nasa.gov/apod/ap200218.html)
+- 20 Feb 2020 - [Trifecta at Twilight](https://apod.nasa.gov/apod/ap200220.html)
+- 21 Feb 2020 - [LDN 1622: Dark Nebula in Orion](https://apod.nasa.gov/apod/ap200221.html)
