@@ -17,3 +17,5 @@
 - 18 Feb 2020 - [Orion over the Central Bohemian Highlands](https://apod.nasa.gov/apod/ap200218.html)
 - 20 Feb 2020 - [Trifecta at Twilight](https://apod.nasa.gov/apod/ap200220.html)
 - 21 Feb 2020 - [LDN 1622: Dark Nebula in Orion](https://apod.nasa.gov/apod/ap200221.html)
+- 23 Feb 2020 - [Illustris Simulation of the Universe](https://apod.nasa.gov/apod/ap200223.html)
+- 24 Feb 2020 - [Moon Corona, Halo, and Arcs over Manitoba](https://apod.nasa.gov/apod/ap200224.html)
