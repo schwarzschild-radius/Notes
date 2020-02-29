@@ -19,3 +19,5 @@
 - 21 Feb 2020 - [LDN 1622: Dark Nebula in Orion](https://apod.nasa.gov/apod/ap200221.html)
 - 23 Feb 2020 - [Illustris Simulation of the Universe](https://apod.nasa.gov/apod/ap200223.html)
 - 24 Feb 2020 - [Moon Corona, Halo, and Arcs over Manitoba](https://apod.nasa.gov/apod/ap200224.html)
+- 27 Feb 2020 - [Two Hemisphere Night Sky](https://apod.nasa.gov/apod/ap200227.html)
+- 28 Feb 2020 - [South Celestial Rocket Launch](https://apod.nasa.gov/apod/ap200228.html)
