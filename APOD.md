@@ -21,3 +21,4 @@
 - 24 Feb 2020 - [Moon Corona, Halo, and Arcs over Manitoba](https://apod.nasa.gov/apod/ap200224.html)
 - 27 Feb 2020 - [Two Hemisphere Night Sky](https://apod.nasa.gov/apod/ap200227.html)
 - 28 Feb 2020 - [South Celestial Rocket Launch](https://apod.nasa.gov/apod/ap200228.html)
+- 03 Mar 2020 - [Apollo 13 view of the moon](https://apod.nasa.gov/apod/ap200303.html)
