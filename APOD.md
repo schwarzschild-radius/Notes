@@ -24,3 +24,5 @@
 - 03 Mar 2020 - [Apollo 13 view of the moon](https://apod.nasa.gov/apod/ap200303.html)
 - 07 Mar 2020 - [Pic du Midi Panorama](https://apod.nasa.gov/apod/ap200307.html)
 - 11 Mar 2020 - [An Extreme Black Hole Outburst](https://apod.nasa.gov/apod/ap200311.html)
+- 14 Mar 2020 - [Moonrise and Mountain Shadow](https://apod.nasa.gov/apod/ap200314.html)
+- 16 Mar 2020 - [Moon Dressed like Satrun](https://apod.nasa.gov/apod/ap200316.html)
