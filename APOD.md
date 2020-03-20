@@ -26,3 +26,4 @@
 - 11 Mar 2020 - [An Extreme Black Hole Outburst](https://apod.nasa.gov/apod/ap200311.html)
 - 14 Mar 2020 - [Moonrise and Mountain Shadow](https://apod.nasa.gov/apod/ap200314.html)
 - 16 Mar 2020 - [Moon Dressed like Satrun](https://apod.nasa.gov/apod/ap200316.html)
+- 18 Mar 2020 - [Anticrepuscular Rays over Florida](https://apod.nasa.gov/apod/ap200318.html)
