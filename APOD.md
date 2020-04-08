@@ -29,3 +29,4 @@
 - 18 Mar 2020 - [Anticrepuscular Rays over Florida](https://apod.nasa.gov/apod/ap200318.html)
 - 22 Mar 2020 - [Moon Setting Behind Teide Volcano](https://apod.nasa.gov/apod/ap200322.html)
 - 30 Mar 2020 - [The Colors of Saturn from Cassini](https://apod.nasa.gov/apod/ap200330.html)
+- 07 Apr 2020 - [A Path North](https://apod.nasa.gov/apod/ap200407.html)
