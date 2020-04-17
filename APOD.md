@@ -30,3 +30,5 @@
 - 22 Mar 2020 - [Moon Setting Behind Teide Volcano](https://apod.nasa.gov/apod/ap200322.html)
 - 30 Mar 2020 - [The Colors of Saturn from Cassini](https://apod.nasa.gov/apod/ap200330.html)
 - 07 Apr 2020 - [A Path North](https://apod.nasa.gov/apod/ap200407.html)
+- 15 Apr 2020 - [A Cosmic Triangle](https://apod.nasa.gov/apod/ap200415.html)
+- 16 Apr 2020 - [Comet Atlas Breaks Up](https://apod.nasa.gov/apod/ap200416.html)
