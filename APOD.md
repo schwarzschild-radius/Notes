@@ -32,3 +32,6 @@
 - 07 Apr 2020 - [A Path North](https://apod.nasa.gov/apod/ap200407.html)
 - 15 Apr 2020 - [A Cosmic Triangle](https://apod.nasa.gov/apod/ap200415.html)
 - 16 Apr 2020 - [Comet Atlas Breaks Up](https://apod.nasa.gov/apod/ap200416.html)
+- 18 Apr 2020 - [Just Another Day on Aerosol Earth](https://apod.nasa.gov/apod/ap200418.html)
+- 19 Apr 2020 - [Cassini Approaches Saturn](https://apod.nasa.gov/apod/ap200419.html)
+- 22 Apr 2020 - [Planet Earth at Twilight](https://apod.nasa.gov/apod/ap200422.html)
