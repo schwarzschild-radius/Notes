@@ -6,3 +6,4 @@
 - Mar 09, 2020 - [Scientific Briefing](https://xkcd.com/2278/)
 - Mar 17, 2020 - [2010 and 2020](https://xkcd.com/2280/)
 - Mar 30, 2020 - [Pathogen Resistence](https://xkcd.com/2287/)
+- Apr 27 ,2020 - [Coronavirus Genome](https://xkcd.com/2298/)
