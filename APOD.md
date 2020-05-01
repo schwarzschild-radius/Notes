@@ -35,3 +35,4 @@
 - 18 Apr 2020 - [Just Another Day on Aerosol Earth](https://apod.nasa.gov/apod/ap200418.html)
 - 19 Apr 2020 - [Cassini Approaches Saturn](https://apod.nasa.gov/apod/ap200419.html)
 - 22 Apr 2020 - [Planet Earth at Twilight](https://apod.nasa.gov/apod/ap200422.html)
+- 29 Apr 2020 - [SWAN Comet](https://apod.nasa.gov/apod/ap200429.html)  
