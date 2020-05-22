@@ -36,4 +36,4 @@
 - 19 Apr 2020 - [Cassini Approaches Saturn](https://apod.nasa.gov/apod/ap200419.html)
 - 22 Apr 2020 - [Planet Earth at Twilight](https://apod.nasa.gov/apod/ap200422.html)
 - 29 Apr 2020 - [SWAN Comet](https://apod.nasa.gov/apod/ap200429.html)  
-- 21 Apr 2020 - [Moon, Mars, Saturn, Jupiter & Milkyway](https://apod.nasa.gov/apod/ap200520.html)
+- 21 May 2020 - [Moon, Mars, Saturn, Jupiter & Milkyway](https://apod.nasa.gov/apod/ap200520.html)
