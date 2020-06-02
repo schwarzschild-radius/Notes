@@ -40,3 +40,4 @@
 - 26 May 2020 - [Milkyway over Himalayas](https://apod.nasa.gov/apod/ap200526.html)
 - 27 May 2020 - [Earth and Moon through Saturn's Rings](https://apod.nasa.gov/apod/ap200527.html)
 - 30 May 2020 - [Green Hue](https://apod.nasa.gov/apod/ap200530.html)
+- 31 May 2020 - [Aurora Over Sweden](https://apod.nasa.gov/apod/ap200531.html)
