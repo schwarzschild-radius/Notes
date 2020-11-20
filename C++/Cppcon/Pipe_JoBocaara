@@ -1,0 +1,12 @@
+Video Link: https://www.youtube.com/watch?v=oYEpf5A2qrE
+Github Link: https://github.com/JoBoccara/pipes
+
+# Working with collection in C++
+* for loop
+* STL algorithm
+* ranges
+
+* STL algorithms are not composable with STL iterator approach
+* ranges allows composability
+* but ranges uses a pull based mechanism for executing the composed algorithms
+* the talk proposes push based mechanism
